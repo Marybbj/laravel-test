@@ -1,0 +1,1622 @@
+{
+  "Navbar": [
+    {
+      "className": ".active",
+      "description": "Adds a white text color to the active link in a navbar."
+    },
+    {
+      "className": ".navbar",
+      "description": "Creates a navigation bar"
+    },
+    {
+      "className": ".navbar-nav",
+      "description": "Container for navigation links inside the .navbar container"
+    },
+    {
+      "className": ".navbar-brand",
+      "description": "Added to a link or a header element inside the navbar to represent a logo or a header"
+    },
+    {
+      "className": ".navbar-collapse",
+      "description": "Collapses the navbar (hidden and replaced with a menu/hamburger icon on mobile phones and small tablets)"
+    },
+    {
+      "className": ".navbar-expand-*",
+      "description": "Responsive collapsible class - stacks the navbar vertically on small (sm), medium (md), large (lg) or extra large (xl) screens"
+    },
+    {
+      "className": ".navbar-dark",
+      "description": "Adds a white text color to all links in the navbar"
+    },
+    {
+      "className": ".navbar-light",
+      "description": "Adds a black text color to all links in the navbar"
+    },
+    {
+      "className": ".navbar-text",
+      "description": "Vertically align any elements inside the navbar that are not links (ensures proper padding)"
+    },
+    {
+      "className": ".navbar-toggler",
+      "description": "Styles the button that should open the navbar on small screens. Automatically styled as a hamburger/three bars"
+    },
+    {
+      "className": ".navlink",
+      "description": "Used to style links/anchors inside the navbar"
+    },
+    {
+      "className": ".nav-item",
+      "description": "Used to style list items inside the navbar"
+    }
+  ],
+  "List Groups": [
+    {
+      "className": ".active",
+      "description": "Adds a blue background color to the active list item in a list group"
+    },
+    {
+      "className": ".disabled",
+      "description": "Disables a list item in a list group (cannot be clicked - adds a light grey color and removes the hover effect on list item links)"
+    }
+  ],
+  "Buttons": [
+    {
+      "className": ".active",
+      "description": "Adds a dark-blue background color to simulate a \"pressed\" button"
+    },
+    {
+      "className": ".btn",
+      "description": "Creates a basic button (gray background and rounded corners)"
+    },
+    {
+      "className": ".btn-block",
+      "description": "Creates a block level button that spans the entire width of the parent element"
+    },
+    {
+      "className": ".btn-dark",
+      "description": "Dark grey button"
+    },
+    {
+      "className": ".btn-danger",
+      "description": "Red button. Indicates danger or a negative action"
+    },
+    {
+      "className": ".btn-info",
+      "description": "Teal button. Represents a neutral informative change or action"
+    },
+    {
+      "className": ".btn-light",
+      "description": "Light grey button"
+    },
+    {
+      "className": ".btn-link",
+      "description": "Makes a button look like a link (get button behavior)"
+    },
+    {
+      "className": ".btn-lg",
+      "description": "Large button"
+    },
+    {
+      "className": ".btn-outline-dark",
+      "description": "Dark grey bordered/outlined button"
+    },
+    {
+      "className": ".btn-outline-danger",
+      "description": "Red bordered/outlined button. Indicates danger or a negative action"
+    },
+    {
+      "className": ".btn-outline-info",
+      "description": "Teal bordered/outlined button. Represents a neutral informative change or action"
+    },
+    {
+      "className": ".btn-outline-light",
+      "description": "Light grey bordered/outlined button"
+    },
+    {
+      "className": ".btn-outline-primary",
+      "description": "Blue bordered/outlined button."
+    },
+    {
+      "className": ".btn-outline-secondary",
+      "description": "Grey bordered/outlined button. Indicates a \"less\" important action"
+    },
+    {
+      "className": ".btn-outline-success",
+      "description": "Green bordered/outlined button. Indicates success or a positive action"
+    },
+    {
+      "className": ".btn-outline-warning",
+      "description": "Orange bordered/outlined button. Represents warning or a negative action"
+    },
+    {
+      "className": ".btn-primary",
+      "description": "Blue button. Indicates a something important"
+    },
+    {
+      "className": ".btn-sm",
+      "description": "Small button"
+    },
+    {
+      "className": ".btn-secondary",
+      "description": "Grey button. Indicates a \"less\" important action"
+    },
+    {
+      "className": ".btn-success",
+      "description": "Green button. Indicates success or a positive action"
+    },
+    {
+      "className": ".btn-warning",
+      "description": "Orange button. Represents warning or a negative action"
+    },
+    {
+      "className": ".disabled",
+      "description": "Disables a button (adds opacity and a \"no-parking-sign\" icon on hover)"
+    }
+  ],
+  "Dropdowns": [
+    {
+      "className": ".active",
+      "description": "Adds a blue background color to the active dropdown item in a dropdown"
+    },
+    {
+      "className": ".disabled",
+      "description": "Disables a dropdown item (adds a grey text color and a \"no-parking-sign\" icon on hover)"
+    },
+    {
+      "className": ".dropdown",
+      "description": "Creates a toggleable menu that allows the user to choose one value from a predefined list"
+    },
+    {
+      "className": ".dropdown-divider",
+      "description": "Used to separate links in the dropdown menu with a thin horizontal border"
+    },
+    {
+      "className": ".dropdown-header",
+      "description": "Used to add headers inside the dropdown menu"
+    },
+    {
+      "className": ".dropdown-item",
+      "description": "Creates a dropdown item (added to links or buttons inside .dropdown-menu)"
+    },
+    {
+      "className": ".dropdown-item-text",
+      "description": "Used to add plain text to a dropdown item, or used on links for default link styling"
+    },
+    {
+      "className": ".dropdown-menu",
+      "description": "Adds the default styles for the dropdown menu container"
+    },
+    {
+      "className": ".dropdown-menu-right",
+      "description": "Right-aligns a dropdown menu"
+    },
+    {
+      "className": ".dropdown-toggle",
+      "description": "Used on the button that should hide and show (toggle) the dropdown menu"
+    },
+    {
+      "className": ".dropleft",
+      "description": "Left-aligns the dropdown"
+    },
+    {
+      "className": ".dropright",
+      "description": "Right-aligns the dropdown"
+    },
+    {
+      "className": ".dropup",
+      "description": "Indicates a dropup menu (upwards instead of downwards)"
+    }
+  ],
+  "Pagination": [
+    {
+      "className": ".active",
+      "description": "Adds a blue background color to the active pagination link (to highlight the current page)"
+    },
+    {
+      "className": ".breadcrumb",
+      "description": "A pagination. Indicates the current page's location within a navigational hierarchy"
+    },
+    {
+      "className": ".breadcrumb-item",
+      "description": "Styles list items or links inside the breadcrumb"
+    },
+    {
+      "className": ".disabled",
+      "description": "Disables a pagination link (cannot be clicked - adds a grey text color and a \"no-parking-sign\" icon on hover)"
+    },
+    {
+      "className": ".page-item",
+      "description": "Styles list items inside a pagination"
+    },
+    {
+      "className": ".page-link",
+      "description": "Styles links inside a pagination"
+    },
+    {
+      "className": ".pagination",
+      "description": "Creates a pagination (Useful when you have a web site with lots of pages"
+    },
+    {
+      "className": ".pagination-lg",
+      "description": "Large pagination (each pagination link gets a bigger font-size and more padding)"
+    },
+    {
+      "className": ".pagination-sm",
+      "description": "Small pagination (each pagination link gets a smaller font size and less padding)"
+    }
+  ],
+  "Carousel": [
+    {
+      "className": ".active",
+      "description": "Displays/shows the current carousel item"
+    },
+    {
+      "className": ".carousel",
+      "description": "Creates a carousel (slideshow)"
+    },
+    {
+      "className": ".carousel-caption",
+      "description": "Creates a caption text for each slide in the carousel"
+    },
+    {
+      "className": ".carousel-control-next",
+      "description": "Container for \"next\" carousel/item link"
+    },
+    {
+      "className": ".carousel-control-next-icon",
+      "description": "Used together with .carousel-control-next to create a \"next\" icon/button (right-pointed arrow)"
+    },
+    {
+      "className": ".carousel-control-prev",
+      "description": "Container for \"previous\" carousel/item link"
+    },
+    {
+      "className": ".carousel-control-prev-icon",
+      "description": "Used together with .carousel-control-prev to create a \"previous\" icon/button (left-pointed arrow)"
+    },
+    {
+      "className": ".carousel-indicators",
+      "description": "Adds little dots/indicators at the bottom of each slide (which indicates how many slides there is in the carousel, and which slide the user are currently viewing)"
+    },
+    {
+      "className": ".carousel-inner",
+      "description": "Container for slide items"
+    },
+    {
+      "className": ".carousel-item",
+      "description": "Specifies the content of each slide"
+    }
+  ],
+  "Alerts": [
+    {
+      "className": ".alert",
+      "description": "Creates an alert message box"
+    },
+    {
+      "className": ".alert-danger",
+      "description": "Red alert. Indicates a dangerous or potentially negative action"
+    },
+    {
+      "className": ".alert-dark",
+      "description": "Dark alert. Dark grey alert box"
+    },
+    {
+      "className": ".alert-dismissible",
+      "description": "Indicates a closable alert box. Together with the .close class, this class is used to   close the alert (adds extra padding)"
+    },
+    {
+      "className": ".alert-heading",
+      "description": "Adds color:inherit to the specified element"
+    },
+    {
+      "className": ".alert-info",
+      "description": "Teal alert. Indicates a neutral informative change or action"
+    },
+    {
+      "className": ".alert-light",
+      "description": "Light alert. Light grey alert box"
+    },
+    {
+      "className": ".alert-link",
+      "description": "Used on links inside alerts to provide matching colored links"
+    },
+    {
+      "className": ".alert-primary",
+      "description": "Blue alert. Indicates an important action"
+    },
+    {
+      "className": ".alert-secondary",
+      "description": "Grey alert. Indicates a \"less\" important action"
+    },
+    {
+      "className": ".alert-success",
+      "description": "Green alert. Indicates a successful or positive action"
+    },
+    {
+      "className": ".alert-warning",
+      "description": "Yellow alert. Indicates caution should be taken with this action"
+    },
+    {
+      "className": ".fade",
+      "description": "Adds a fading effect when closing an alert box"
+    }
+  ],
+  "Utilities": [
+    {
+      "className": ".align-baseline",
+      "description": "The element is aligned with the baseline of the parent. This is default"
+    },
+    {
+      "className": ".align-bottom",
+      "description": "The element is aligned with the lowest element on the line"
+    },
+    {
+      "className": ".align-middle",
+      "description": "\tThe element is placed in the middle of the parent element"
+    },
+    {
+      "className": ".align-top",
+      "description": "The element is aligned with the top of the tallest element on the line"
+    },
+    {
+      "className": ".align-text-top",
+      "description": "The element is aligned with the top of the parent element's font"
+    },
+    {
+      "className": ".align-text-bottom",
+      "description": "The element is aligned with the bottom of the parent element's font"
+    },
+    {
+      "className": ".border",
+      "description": "Adds a border to an element"
+    },
+    {
+      "className": ".border-bottom-0",
+      "description": "Removes the bottom border from an element"
+    },
+    {
+      "className": ".border-danger",
+      "description": "Adds a red border to an element (indicates danger)"
+    },
+    {
+      "className": ".border-dark",
+      "description": "Adds a dark border to an element"
+    },
+    {
+      "className": ".border-info",
+      "description": "Adds a teal border to an element (indicates information)"
+    },
+    {
+      "className": ".border-left-0",
+      "description": "Removes the left border from an element"
+    },
+    {
+      "className": ".border-light",
+      "description": "Adds a light grey border to an element"
+    },
+    {
+      "className": ".border-primary",
+      "description": "Adds a blue border to an element"
+    },
+    {
+      "className": ".border-right-0",
+      "description": "Removes the right border from an element"
+    },
+    {
+      "className": ".border-top-0",
+      "description": "Removes the top border from an element"
+    },
+    {
+      "className": ".border-secondary",
+      "description": "Adds a grey border to an element"
+    },
+    {
+      "className": ".border-success",
+      "description": "Adds a green border to an element (indicates success)"
+    },
+    {
+      "className": ".border-warning",
+      "description": "Adds a orange border to an element (indicates warning)"
+    },
+    {
+      "className": ".border-white",
+      "description": "Adds a white border to an element"
+    },
+    {
+      "className": ".border-0",
+      "description": "Removes all borders from an element"
+    },
+    {
+      "className": ".clearfix",
+      "description": "Clears floats"
+    },
+    {
+      "className": ".close",
+      "description": "Styles a close icon. This is often used for alerts and modals. Often used together with the &times; symbol to create the actual icon (a better lookiong \"x\"). It floats right by default"
+    },
+    {
+      "className": ".d-block",
+      "description": "Creates a block element (adds display:block)"
+    },
+    {
+      "className": ".d-*-block",
+      "description": "Creates a block element on a specific screen width"
+    },
+    {
+      "className": ".fixed-bottom",
+      "description": "Makes an element stay at the bottom of the screen (sticky/fixed)"
+    },
+    {
+      "className": ".fixed-top",
+      "description": "Makes an element stay at the top of the screen (sticky/fixed)"
+    },
+    {
+      "className": ".float-left",
+      "description": "Floats an element to the left"
+    },
+    {
+      "className": ".float-*-left",
+      "description": "Floats an element to the left on different screens"
+    },
+    {
+      "className": ".float-none",
+      "description": "Remove floats from an element"
+    },
+    {
+      "className": ".float-right",
+      "description": "Floats an element to the right"
+    },
+    {
+      "className": ".float-*-right",
+      "description": "Floats an element to the left on different screens"
+    },
+    {
+      "className": ".h-25",
+      "description": "Sets the height of an element to 25%"
+    },
+    {
+      "className": ".h-50",
+      "description": "Sets the height of an element to 50%"
+    },
+    {
+      "className": ".h-75",
+      "description": "Sets the height of an element to 75%"
+    },
+    {
+      "className": ".h-100",
+      "description": "Sets the height of an element to 100%"
+    },
+    {
+      "className": ".invisible",
+      "description": "Make an element invisible"
+    },
+    {
+      "className": ".m-# / m-*-#",
+      "description": "Responsive margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".mt-# / mt-*-#",
+      "description": "Responsive top margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".mb-# / mb-*-#",
+      "description": "Responsive bottom margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".ml-# / ml-*-#",
+      "description": "Responsive left margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".mr-# / mr-*-#",
+      "description": "Responsive right margin classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".mx-# / mx-*-#",
+      "description": "Responsive left and right margin auto (horizontal) classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".my-# / my-*-#",
+      "description": "Responsive top and bottom margin auto (vertical) classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".mx-auto",
+      "description": "Centers an element horizontally"
+    },
+    {
+      "className": ".p-# / p-*-#",
+      "description": "Responsive padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".pt-# / pt-*-#",
+      "description": "Responsive top padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".pb-# / pb-*-#",
+      "description": "Responsive bottom padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".pl-# / pl-*-#",
+      "description": "Responsive left padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".pr-# / pr-*-#",
+      "description": "Responsive right padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".py-# / py-*-#",
+      "description": "Responsive top and bottom padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".px-# / px-*-#",
+      "description": "Responsive left and right padding classes. * can be sm, md, lg or xl. # can be a number between 0 and 5"
+    },
+    {
+      "className": ".rounded",
+      "description": "Adds rounded corners to an element"
+    },
+    {
+      "className": ".rounded-bottom",
+      "description": "Adds bottom rounded corners to an element"
+    },
+    {
+      "className": ".rounded-circle",
+      "description": "Shapes an element to a circle (not supported in IE8 and earlier)"
+    },
+    {
+      "className": ".rounded-left",
+      "description": "Adds left rounded corners of an element"
+    },
+    {
+      "className": ".rounded-right",
+      "description": "Adds right rounded corners to an element"
+    },
+    {
+      "className": ".rounded-top",
+      "description": "Adds top rounded corners to an element"
+    },
+    {
+      "className": ".rounded-0",
+      "description": "Removes rounded corners from an element"
+    },
+    {
+      "className": ".shadow",
+      "description": "Adds a shadow to an element"
+    },
+    {
+      "className": ".shadow-lg",
+      "description": "Adds a large shadow to an element"
+    },
+    {
+      "className": ".shadow-md",
+      "description": "Adds a medium shadow to an element"
+    },
+    {
+      "className": ".shadow-none",
+      "description": "Removes shadows from an element"
+    },
+    {
+      "className": ".shadow-sm",
+      "description": "Adds a small shadow to an element"
+    },
+    {
+      "className": ".sr-only",
+      "description": "Hides an element on all devices except for screen readers"
+    },
+    {
+      "className": ".sr-only-focusable",
+      "description": "Hides an element on all devices except for screen readers"
+    },
+    {
+      "className": ".sticky-top",
+      "description": "Makes an element stay sticky/fixed at the top of the page when you scroll past it"
+    },
+    {
+      "className": ".visible",
+      "description": "Make an element visible"
+    },
+    {
+      "className": ".w-25",
+      "description": "Sets the width of an element to 25%"
+    },
+    {
+      "className": ".w-50",
+      "description": "Sets the width of an element to 50%"
+    },
+    {
+      "className": ".w-75",
+      "description": "Sets the width of an element to 75%"
+    },
+    {
+      "className": ".w-100",
+      "description": "Sets the width of an element to 100%"
+    }
+  ],
+  "Flex": [
+    {
+      "className": ".align-content-around",
+      "description": "Align gathered items \"around\""
+    },
+    {
+      "className": ".align-content-*-around",
+      "description": "Align gathered items \"around\" on different screens"
+    },
+    {
+      "className": ".align-content-center",
+      "description": "Align gathered items in the center"
+    },
+    {
+      "className": ".align-content-*-center",
+      "description": "Align gathered items in the center on different screens"
+    },
+    {
+      "className": ".align-content-end",
+      "description": "Align gathered items at the end"
+    },
+    {
+      "className": ".align-content-*-end",
+      "description": "Align gathered items at the end on different screens"
+    },
+    {
+      "className": ".align-content-start",
+      "description": "Align gathered items from the start"
+    },
+    {
+      "className": ".align-content-*-start",
+      "description": "Align gathered items from the start on different screens"
+    },
+    {
+      "className": ".align-content-stretch",
+      "description": "Stretch gathered items"
+    },
+    {
+      "className": ".align-content-*-stretch",
+      "description": "Stretch gathered items on different screens"
+    },
+    {
+      "className": ".align-items-start",
+      "description": "Align single rows of items from the start"
+    },
+    {
+      "className": ".align-items-*-start",
+      "description": "Align single rows of items from the start on different screens"
+    },
+    {
+      "className": ".align-items-end",
+      "description": "Align single rows of items at the end"
+    },
+    {
+      "className": ".align-items-*-end",
+      "description": "Align single rows of items at the end on different screens"
+    },
+    {
+      "className": ".align-items-center",
+      "description": "Align single rows of items in the center"
+    },
+    {
+      "className": ".align-items-*-center",
+      "description": "Align single rows of items in the center on different screens"
+    },
+    {
+      "className": ".align-items-baseline",
+      "description": "Align single rows of items at the baseline"
+    },
+    {
+      "className": ".align-items-*-baseline",
+      "description": "Align single rows of items at the baseline on different screens"
+    },
+    {
+      "className": ".align-items-stretch",
+      "description": "Stretch single rows of items"
+    },
+    {
+      "className": ".align-items-*-stretch",
+      "description": "Stretch single rows of items on different screens"
+    },
+    {
+      "className": ".align-self-start",
+      "description": "Align a flex item from the start"
+    },
+    {
+      "className": ".align-self-*-start",
+      "description": "Align a flex item from the start on different screens"
+    },
+    {
+      "className": ".align-self-end",
+      "description": "Align a flex item at the end"
+    },
+    {
+      "className": ".align-self-*-end",
+      "description": "Align a flex item at the end on different screens"
+    },
+    {
+      "className": ".align-self-center",
+      "description": "Align a flex item in the center"
+    },
+    {
+      "className": ".align-self-*-center",
+      "description": "Align a flex item in the center on different screens"
+    },
+    {
+      "className": ".align-self-baseline",
+      "description": "Align a flex item at the baseline"
+    },
+    {
+      "className": ".align-self-*-start",
+      "description": "Align a flex item at the baseline on different screens"
+    },
+    {
+      "className": ".align-self-stretch",
+      "description": "Stretch a flex item"
+    },
+    {
+      "className": ".align-self-*-stretch",
+      "description": "Stretch a flex item on different screens"
+    },
+    {
+      "className": ".d-flex",
+      "description": "Creates a flexbox container and transforms direct children into flex items"
+    },
+    {
+      "className": ".d-*-flex",
+      "description": "Creates a flexbox container on a specific screen size"
+    },
+    {
+      "className": ".d-inline-flex",
+      "description": "Creates an inline flexbox container"
+    },
+    {
+      "className": ".d-*-inline-flex",
+      "description": "Creates an inline flexbox container on a specific screen size"
+    },
+    {
+      "className": ".flex-column",
+      "description": "Display flex items vertically"
+    },
+    {
+      "className": ".flex-*-column",
+      "description": "Display flex items vertically on different screen sizes:"
+    },
+    {
+      "className": ".flex-column-reverse",
+      "description": "Display flex items vertically, reversed"
+    },
+    {
+      "className": ".flex-*-column-reverse",
+      "description": "Display flex items vertically, reversed, on different screen sizes"
+    },
+    {
+      "className": ".flex-fill",
+      "description": "Used on flex items to force it/them into equal width columns"
+    },
+    {
+      "className": ".flex-*-fill",
+      "description": "Force flex items into equal widths on different screens"
+    },
+    {
+      "className": ".flex-grow-0|1",
+      "description": "Used on a single flex item to take up the rest of the available space"
+    },
+    {
+      "className": ".flex-nowrap",
+      "description": "Don't wrap flex items"
+    },
+    {
+      "className": ".flex-*-nowrap",
+      "description": "Don't wrap items on different screens"
+    },
+    {
+      "className": ".flex-shrink-0|1",
+      "description": "Used on a single flex item to shrink it if necessary"
+    },
+    {
+      "className": ".flex-row",
+      "description": "Display flex items horizontally (side by side)"
+    },
+    {
+      "className": ".flex-*-row",
+      "description": "Display flex items horizontally on a specific screen size"
+    },
+    {
+      "className": ".flex-row-reverse",
+      "description": "Display flex items right-aligned and horizontally"
+    },
+    {
+      "className": ".flex-*-row-reverse",
+      "description": "Display flex items right-aligned and horizontally on a specific screen size"
+    },
+    {
+      "className": ".flex-wrap",
+      "description": "Wrap flex items"
+    },
+    {
+      "className": ".flex-*-wrap",
+      "description": "Wrap items on different screens"
+    },
+    {
+      "className": ".flex-wrap-reverse",
+      "description": "Wrap flex items, in reversed order"
+    },
+    {
+      "className": ".flex-*-wrap-reverse",
+      "description": "Wrap flex items, in reversed order on different screens"
+    },
+    {
+      "className": ".justify-content-*",
+      "description": "Aligns flex items from the start, at the end, \n      centered, in between and \"around\""
+    },
+    {
+      "className": ".justify-content-*-around",
+      "description": "Aligns flex items \"around\" on different screen sizes"
+    },
+    {
+      "className": ".justify-content-*-between",
+      "description": "Aligns flex items in \"between\" on different screen sizes"
+    },
+    {
+      "className": ".justify-content-*-center",
+      "description": "Aligns flex items in the center on different screen sizes"
+    },
+    {
+      "className": ".justify-content-*-end",
+      "description": "Aligns flex items at the end on different screen sizes"
+    },
+    {
+      "className": ".justify-content-*-start",
+      "description": "Aligns flex items from the start on different screen sizes"
+    }
+  ],
+  "Badges": [
+    {
+      "className": ".badge",
+      "description": "Creates a circular badge (grey circle - often used as a numerical indicator)"
+    },
+    {
+      "className": ".badge-danger",
+      "description": "Red badge. Indicates a dangerous or potentially negative action"
+    },
+    {
+      "className": ".badge-dark",
+      "description": "Dark badge. Dark grey alert box"
+    },
+    {
+      "className": ".badge-info",
+      "description": "Teal badge. Indicates a neutral informative change or action"
+    },
+    {
+      "className": ".badge-light",
+      "description": "Light badge. Light grey alert box"
+    },
+    {
+      "className": ".badge-pill",
+      "description": "Makes a badge more round"
+    },
+    {
+      "className": ".badge-primary",
+      "description": "Blue badge. Indicates an important action"
+    },
+    {
+      "className": ".badge-secondary",
+      "description": "Grey badge. Indicates a \"less\" important action"
+    },
+    {
+      "className": ".badge-success",
+      "description": "Green badge. Indicates a successful or positive action"
+    },
+    {
+      "className": ".badge-warning",
+      "description": "Yellow badge. Indicates caution should be taken with this action"
+    }
+  ],
+  "Colors": [
+    {
+      "className": ".bg-danger",
+      "description": "Adds a red background color to an element. Represents danger or a negative action"
+    },
+    {
+      "className": ".bg-dark",
+      "description": "Adds a dark grey background color to an element"
+    },
+    {
+      "className": ".bg-info",
+      "description": "Adds a teal background color to an element. Represents some information"
+    },
+    {
+      "className": ".bg-light",
+      "description": "Adds a light grey background color to an element"
+    },
+    {
+      "className": ".bg-primary",
+      "description": "Adds a blue background color to an element. Represents something important"
+    },
+    {
+      "className": ".bg-secondary",
+      "description": "Adds a grey background color to an element. Indicates a \"less\" important action"
+    },
+    {
+      "className": ".bg-success",
+      "description": "Adds a green background color to an element. Indicates success or a positive action"
+    },
+    {
+      "className": ".bg-warning",
+      "description": "Adds a yellow/orange background color to an element. Represents a warning or a negative action"
+    },
+    {
+      "className": ".text-danger",
+      "description": "Red text color. Indicates danger"
+    },
+    {
+      "className": ".text-info",
+      "description": "Light-blue text color. Indicates information"
+    },
+    {
+      "className": ".text-light",
+      "description": "Light grey text color"
+    },
+    {
+      "className": ".text-muted",
+      "description": "Grey text color"
+    },
+    {
+      "className": ".text-primary",
+      "description": "Blue text color. Indicates something important"
+    },
+    {
+      "className": ".text-secondary",
+      "description": "Grey text color. Indicates something \"less\" important"
+    },
+    {
+      "className": ".text-success",
+      "description": "Green text color. Indicates success"
+    },
+    {
+      "className": ".text-warning",
+      "description": "Yellow/orange text color. Indicates warning"
+    },
+    {
+      "className": ".text-white",
+      "description": "White text color"
+    }
+  ],
+  "Typography": [
+    {
+      "className": ".blockquote",
+      "description": "Styles quoted blocks of content from another source (adds a larger font-size (1.25rem))"
+    },
+    {
+      "className": ".blockquote-footer",
+      "description": "Styles the source title inside the blockquote (light grey text with indentation)"
+    },
+    {
+      "className": ".font-weight-bold",
+      "description": "Bold text"
+    },
+    {
+      "className": ".font-weight-italic",
+      "description": "Italic text"
+    },
+    {
+      "className": ".font-weight-light",
+      "description": "Light weight text (font-weight:300) "
+    },
+    {
+      "className": ".font-weight-normal",
+      "description": "Normal text (font-weight:400)"
+    },
+    {
+      "className": ".h1 - .h6",
+      "description": "Makes an element look like a heading of the chosen class (h1-h6)"
+    },
+    {
+      "className": ".initialism",
+      "description": "Displays the text inside an <abbr> element in a slightly smaller font size"
+    },
+    {
+      "className": ".lead",
+      "description": "Increase the font size and line height of a paragraph"
+    },
+    {
+      "className": ".list-inline",
+      "description": "Places all list items on a single line (used together with \n    .list-inline-item on each <li> elements)"
+    },
+    {
+      "className": ".list-inline-item",
+      "description": "Places all list items on a single line (used together with \n    .list-inline on the parent <ul> element)"
+    },
+    {
+      "className": ".list-unstyled",
+      "description": "Removes all default list-style (bullets, left margin, etc.) styling from a \n   <ul> or <ol> list"
+    },
+    {
+      "className": ".mark",
+      "description": "Highlights text: Highlighted text"
+    },
+    {
+      "className": ".small",
+      "description": "Creates a lighter, secondary text in any heading"
+    },
+    {
+      "className": ".text-capitalize",
+      "description": "Indicates capitalized text"
+    },
+    {
+      "className": ".text-center",
+      "description": "Center-aligns text"
+    },
+    {
+      "className": ".text-*-center",
+      "description": "Center-aligns text on different screens"
+    },
+    {
+      "className": ".text-dark",
+      "description": "Dark grey text color"
+    },
+    {
+      "className": ".text-hide",
+      "description": "Hides text (helps replace an element's text content with a background image)"
+    },
+    {
+      "className": ".text-justify",
+      "description": "Indicates justified text"
+    },
+    {
+      "className": ".text-left",
+      "description": "Aligns the text to the left"
+    },
+    {
+      "className": ".text-*-left",
+      "description": "Left-aligns text on different screens"
+    },
+    {
+      "className": ".text-lowercase",
+      "description": "Changes text to lowercase"
+    },
+    {
+      "className": ".text-nowrap",
+      "description": "Prevents the text from wrapping"
+    },
+    {
+      "className": ".text-right",
+      "description": "Aligns text to the right"
+    },
+    {
+      "className": ".text-*-right",
+      "description": "Right-aligns text on different screens"
+    },
+    {
+      "className": ".text-uppercase",
+      "description": "Makes text uppercase"
+    }
+  ],
+  "Button Groups": [
+    {
+      "className": ".btn-group",
+      "description": "Groups buttons together on a single line"
+    },
+    {
+      "className": ".btn-group-lg",
+      "description": "Large button group (makes all buttons in a button group larger - increased font-size and padding)"
+    },
+    {
+      "className": ".btn-group-sm",
+      "description": "Small button group (makes all buttons in a button group smaller)"
+    },
+    {
+      "className": ".btn-group-vertical",
+      "description": "Makes a button group appear vertically stacked"
+    },
+    {
+      "className": ".btn-toolbar",
+      "description": "Combine sets of button groups into button toolbars for more complex components"
+    }
+  ],
+  "Cards": [
+    {
+      "className": ".card",
+      "description": "Creates a card"
+    },
+    {
+      "className": ".card-body",
+      "description": "Container for card content"
+    },
+    {
+      "className": ".card-columns",
+      "description": "Container to create a masonry-like grid of cards"
+    },
+    {
+      "className": ".card-danger",
+      "description": "Adds a red background color to the card. Represents danger or a negative action"
+    },
+    {
+      "className": ".card-dark",
+      "description": "Adds a grey background color to the card"
+    },
+    {
+      "className": ".card-deck",
+      "description": "Container to create a grid of cards that are of equal height and width"
+    },
+    {
+      "className": ".card-footer",
+      "description": "Card footer"
+    },
+    {
+      "className": ".card-group",
+      "description": "Container to create a grid of cards that are of equal height and width, without side margins"
+    },
+    {
+      "className": ".card-header",
+      "description": "Card header"
+    },
+    {
+      "className": ".card-header-tabs",
+      "description": "Styles navigation tabs inside the card header"
+    },
+    {
+      "className": ".card-header-pills",
+      "description": "Styles navigation pills inside the card header"
+    },
+    {
+      "className": ".card-img-bottom",
+      "description": "Place the image at the bottom inside a card"
+    },
+    {
+      "className": ".card-img-overlay",
+      "description": "Turns an image into a card background. Often used to add text on top of the image"
+    },
+    {
+      "className": ".card-img-top",
+      "description": "Place the image at the top inside a card"
+    },
+    {
+      "className": ".card-info",
+      "description": "Adds a teal background color to the card. Represents some information"
+    },
+    {
+      "className": ".card-light",
+      "description": "Adds a light grey background color to the card"
+    },
+    {
+      "className": ".card-link",
+      "description": "Adds a blue color to any link and a hover effect inside the card"
+    },
+    {
+      "className": ".card-primary",
+      "description": "Adds a blue background color to the card. Represents something important"
+    },
+    {
+      "className": ".card-secondary",
+      "description": "Adds a grey background color to the card. Represents something \"less\" important"
+    },
+    {
+      "className": ".card-subtitle",
+      "description": "The .card-subtitle is used after a .card-title, and adds the following to an element: margin-top: -.375rem; margin-bottom: 0;"
+    },
+    {
+      "className": ".card-success",
+      "description": "Adds a green background color to the card. Indicates success or a positive action"
+    },
+    {
+      "className": ".card-text",
+      "description": "Used to remove bottom margins for a p element if it is the last child (or the only one), inside .card-body"
+    },
+    {
+      "className": ".card-title",
+      "description": "Adds a title to any heading element inside the card"
+    },
+    {
+      "className": ".card-warning",
+      "description": "Adds a yellow/orange background color to the card. Represents a warning or a negative action"
+    }
+  ],
+  "Grid System": [
+    {
+      "className": ".col-*",
+      "description": "Creates a column layout for extra small devices (and up/all devices, if not combined with other column classes). The * can be a number between 1 and 12"
+    },
+    {
+      "className": ".col-sm-*",
+      "description": "Creates a column layout for small devices (and up, if not combined with other column classes). The * can be a number between 1 and 12"
+    },
+    {
+      "className": ".col-md-*",
+      "description": "Creates a column layout for medium devices (and up, if not combined with other column classes). The * can be a number between 1 and 12"
+    },
+    {
+      "className": ".col-lg-*",
+      "description": "Creates a column layout for large devices (and up, if not combined with other column classes). The * can be a number between 1 and 12"
+    },
+    {
+      "className": ".col-xl-*",
+      "description": "Creates a column layout for extra large devices. The * can be a number between 1 and 12"
+    },
+    {
+      "className": ".no-gutters",
+      "description": "Remove gutters/extra space from columns"
+    },
+    {
+      "className": ".row",
+      "description": "Container for responsive columns"
+    }
+  ],
+  "Collapse": [
+    {
+      "className": ".collapse",
+      "description": "Indicates collapsible content - which can be hidden or shown on demand"
+    },
+    {
+      "className": ".collapse show",
+      "description": "Show the collapsible content by default"
+    }
+  ],
+  "Containers": [
+    {
+      "className": ".container",
+      "description": "Fixed width container with widths determined by screen sites. Equal margin on the left and right."
+    },
+    {
+      "className": ".container-fluid",
+      "description": "A container that spans the full width of the screen"
+    }
+  ],
+  "Custom Forms": [
+    {
+      "className": ".custom-checkbox",
+      "description": "A wrapper/container for custom checkboxes"
+    },
+    {
+      "className": ".custom-control",
+      "description": "A wrapper/container for custom forms"
+    },
+    {
+      "className": ".custom-control-input",
+      "description": "Customized form control"
+    },
+    {
+      "className": ".custom-control-inline",
+      "description": "Inline (horizontally - side by side) customized form controls"
+    },
+    {
+      "className": ".custom-control-label",
+      "description": "Customized label, when used together with a custom form control"
+    },
+    {
+      "className": ".custom-file",
+      "description": "Customized file upload"
+    },
+    {
+      "className": ".custom-radio",
+      "description": "A wrapper/container for custom radio buttons"
+    },
+    {
+      "className": ".custom-range",
+      "description": "Customized range control"
+    },
+    {
+      "className": ".custom-select",
+      "description": "Customized select menu"
+    },
+    {
+      "className": ".custom-select-lg",
+      "description": "Large customized select menu"
+    },
+    {
+      "className": ".custom-select-sm",
+      "description": "Small customized select menu"
+    }
+  ],
+  "Images": [
+    {
+      "className": ".embed-responsive",
+      "description": "Container for embedded content. Makes videos or slideshows scale properly on any device"
+    },
+    {
+      "className": ".embed-responsive-16by9",
+      "description": "Container for embedded content. Creates an 16:9 aspect ratio embedded content"
+    },
+    {
+      "className": ".embed-responsive-4by3",
+      "description": "Container for embedded content. Creates an 4:3 aspect ratio embedded content"
+    },
+    {
+      "className": ".embed-responsive-item",
+      "description": "Used inside .embed-responsive. Scales the video nicely to the parent element"
+    },
+    {
+      "className": ".img-fluid",
+      "description": "Responsive image (adds max-width:100% and height:auto)"
+    },
+    {
+      "className": ".img-thumbnail",
+      "description": "Shapes an image to a thumbnail (thin light grey borders)"
+    }
+  ],
+  "Navs": [
+    {
+      "className": ".fade",
+      "description": "Adds a fading effect when showing tab/pill content"
+    }
+  ],
+  "Modal": [
+    {
+      "className": ".fade",
+      "description": "Adds a fading effect when opening a modal"
+    }
+  ],
+  "Forms": [
+    {
+      "className": ".form-check",
+      "description": "Container for checkboxes. Adds proper padding"
+    },
+    {
+      "className": ".form-check-inline",
+      "description": "Makes checkboxes appear on the same line (horizontally)"
+    },
+    {
+      "className": ".form-check-input",
+      "description": "Styles checkboxes with proper margins"
+    },
+    {
+      "className": ".form-check-label",
+      "description": "Ensures proper margins for labels used together with checkboxes"
+    },
+    {
+      "className": ".form-control",
+      "description": "Used on input, textarea, and select elements to span the entire width of the page and make them responsive"
+    },
+    {
+      "className": ".form-control-file",
+      "description": "Adds display:block and width:100% to input filed with type=\"file\""
+    },
+    {
+      "className": ".form-control-lg",
+      "description": "Large form control"
+    },
+    {
+      "className": ".form-control-plaintext",
+      "description": "Styles a form control as plain text"
+    },
+    {
+      "className": ".form-control-range",
+      "description": "Adds display:block and width:100% to input filed with type=\"range\""
+    },
+    {
+      "className": ".form-control-sm",
+      "description": "Small form control"
+    },
+    {
+      "className": ".form-group",
+      "description": "Container for form input and label"
+    },
+    {
+      "className": ".form-inline",
+      "description": "Makes a <form> left-aligned with inline-block controls (This only \n   applies to forms within viewports that are at least 768px wide)"
+    }
+  ],
+  "Input Group": [
+    {
+      "className": ".input-group",
+      "description": "Container to enhance an input by adding an icon, text or a button in front or behind the input field as a \"help text\""
+    },
+    {
+      "className": ".input-group-append",
+      "description": "Input group container for adding help text behind an input field"
+    },
+    {
+      "className": ".input-group-lg",
+      "description": "Large input group"
+    },
+    {
+      "className": ".input-group-prepend",
+      "description": "Input group container for adding help text in front of an input field"
+    },
+    {
+      "className": ".input-group-sm",
+      "description": "Small input group"
+    },
+    {
+      "className": ".input-group-text",
+      "description": "Styles the specified help text in an input group"
+    }
+  ],
+  "Input Sizing": [
+    {
+      "className": ".input-lg",
+      "description": "Large input field"
+    },
+    {
+      "className": ".input-sm",
+      "description": "Small input field"
+    }
+  ],
+  "Jumbotron": [
+    {
+      "className": ".jumbotron",
+      "description": "Creates a padded grey heading/box with rounded corners that enlarges the font sizes of the text inside it. Used for calling extra attention to some special content or information"
+    },
+    {
+      "className": ".jumbotron-fluid",
+      "description": "Creates a full-width jumbotron (grey padded heading) without rounded borders"
+    }
+  ],
+  "List Group": [
+    {
+      "className": ".list-group",
+      "description": "Creates a bordered list group for <li> elements"
+    },
+    {
+      "className": ".list-group-flush",
+      "description": "Removes some borders and rounded corners from list items in a list group"
+    },
+    {
+      "className": ".list-group-item",
+      "description": "Added to each <li> element in the list group"
+    },
+    {
+      "className": ".list-group-item-action",
+      "description": "Added to links inside the list group to make them stand out on hover (darker background)"
+    },
+    {
+      "className": ".list-group-item-danger",
+      "description": "Red background color for a list item in a list group"
+    },
+    {
+      "className": ".list-group-item-dark",
+      "description": "Dark grey background color for a list item in a list group"
+    },
+    {
+      "className": ".list-group-item-info",
+      "description": "Light-blue background color for a list item in a list group"
+    },
+    {
+      "className": ".list-group-item-light",
+      "description": "Light grey background color for a list item in a list group"
+    },
+    {
+      "className": ".list-group-item-primary",
+      "description": "Blue background color for a list item in a list group"
+    },
+    {
+      "className": ".list-group-item-success",
+      "description": "Green background color for a list item in a list group"
+    },
+    {
+      "className": ".list-group-item-warning",
+      "description": "Yellow background color for a list item in a list group"
+    }
+  ],
+  "Media Objects": [
+    {
+      "className": ".media",
+      "description": "Aligns media objects together with content (like images or videos - often used for comments in a blog post etc)"
+    },
+    {
+      "className": ".media-body",
+      "description": "Container for media content"
+    }
+  ],
+  "Modals": [
+    {
+      "className": ".modal",
+      "description": "Identifies the content as a modal and brings focus to it"
+    },
+    {
+      "className": ".modal-body",
+      "description": "Defines the style for the body of the modal. Add any HTML markup here (p, img, etc)"
+    },
+    {
+      "className": ".modal-content",
+      "description": "Styles the modal (border, background-color, etc). Inside this, add the modal's header, body and footer, if needed"
+    },
+    {
+      "className": ".modal-dialog-centered",
+      "description": "Centers the modal vertically and horizontally within the page"
+    },
+    {
+      "className": ".modal-footer",
+      "description": "The footer of the modal (often contains an action button and a close button)"
+    },
+    {
+      "className": ".modal-header",
+      "description": "The header of the modal (often contains a title and a close button)"
+    },
+    {
+      "className": ".modal-lg",
+      "description": "Large modal (wider than default)"
+    },
+    {
+      "className": ".modal-sm",
+      "description": "Small modal (less width)"
+    }
+  ],
+  "Tabs": [
+    {
+      "className": ".nav nav-tabs",
+      "description": "Creates a tabbed menu"
+    },
+    {
+      "className": ".nav nav-pills",
+      "description": "Creates a pill menu"
+    },
+    {
+      "className": ".nav-justified",
+      "description": "Justifies tab/pill links with an equal width"
+    },
+    {
+      "className": ".tab-content",
+      "description": "Used together with .tab-pane to creates toggleable/dynamic tabs/pills"
+    },
+    {
+      "className": ".tab-pane",
+      "description": "Used together with .tab-content to creates toggleable/dynamic tabs/pills"
+    }
+  ],
+  "Helpers": [
+    {
+      "className": ".pre-scrollable",
+      "description": "Makes a <pre> element scrollable (max-height of 350px and provide a y-axis scrollbar)"
+    }
+  ],
+  "Progress Bars": [
+    {
+      "className": ".progress",
+      "description": "Container for progress bars"
+    },
+    {
+      "className": ".progress-bar",
+      "description": "Creates a progress bar"
+    },
+    {
+      "className": ".progress-bar-animated",
+      "description": "Animates the progress bar (used together with stripes)"
+    },
+    {
+      "className": ".progress-bar-striped",
+      "description": "Adds stripes to the progress bar"
+    }
+  ],
+  "Tables": [
+    {
+      "className": ".table",
+      "description": "Adds basic styling to a table (padding, bottom borders, etc)"
+    },
+    {
+      "className": ".table-active",
+      "description": "Adds a grey background color to the table row (<tr> or table cell (<td>) (same color used on hover)"
+    },
+    {
+      "className": ".table-bordered",
+      "description": "Adds borders on all sides of the table and cells"
+    },
+    {
+      "className": ".table-borderless",
+      "description": "Remove broders from a table"
+    },
+    {
+      "className": ".table-condensed",
+      "description": "Makes a table more compact by cutting cell padding in half"
+    },
+    {
+      "className": ".table-dark",
+      "description": "Adds a black background with white text to the table"
+    },
+    {
+      "className": ".table-hover",
+      "description": "Creates a hoverable table (adds a grey background color on table rows on hover)"
+    },
+    {
+      "className": ".table-responsive-*",
+      "description": "Makes a table responsive (adds a horizontal scrollbar when needed). By default, the scrollbar is added to the table on screens that are less than 992px wide (if needed). There's no difference when viewing anything lager than 992px wide. However, you can use sm|md|lg|xl to decide WHEN the table should get a scrollbar, depending on the screen width"
+    },
+    {
+      "className": ".table-striped",
+      "description": "Adds zebra-stripes to a table"
+    },
+    {
+      "className": ".thead-dark",
+      "description": "Adds a black background color to table headers"
+    },
+    {
+      "className": ".thead-light",
+      "description": "Adds a grey background color to table headers"
+    }
+  ]
+}
